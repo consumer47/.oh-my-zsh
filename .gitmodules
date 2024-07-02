@@ -10,3 +10,6 @@
 [submodule "custom/themes/powerlevel10k"]
 	path = custom/themes/powerlevel10k
 	url = https://github.com/romkatv/powerlevel10k.git
+[submodule "custom/plugins/zsh-vim-mode"]
+	path = custom/plugins/zsh-vim-mode
+	url = https://github.com/softmoth/zsh-vim-mode.git
